@@ -14,22 +14,22 @@ INSERT INTO books(title, year, series_id) VALUES("Nice Dragons Finish Last", 201
 INSERT INTO books(title, year, series_id) VALUES("One Good Dragon Deserves Another", 2015, 2);
 INSERT INTO books(title, year, series_id) VALUES("No Good Dragon Goes Unpunished", 2016, 2);
 
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Darrow Au Andromedus", "Break the chains!", "Gold", 1, 1);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Sevro Barca", "The measure of a man is what he does when he has power.", "Gold", 1, 1);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Pax Au Telamanus", "PAX AU TELEMANUS!", "Titan", 1, 1);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Cassius Au Bellona", "My honor remains.", "Gold", 1, 1);
   
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Julius Heartstriker", "Can't we talk about this?", "Dragon", 2, 2);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Bethesda Heartstriker", "Have you seen my beauty line?", "Dragon", 2, 2);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Amelia Heartstriker", "I'm a god, this is awesome!", "Dragon/God", 2, 2);
-INSERT INTO chracters(name, motto, species, author_id, series_id)
+INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Marci Novalli", "I'm the next merlin", "Human", 2, 2);
   
-INSERT INTO characters_books
+INSERT INTO character_books
