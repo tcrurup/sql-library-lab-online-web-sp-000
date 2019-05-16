@@ -24,10 +24,12 @@ INSERT INTO chracters(name, motto, species, author_id, series_id)
   VALUES ("Cassius Au Bellona", "My honor remains.", "Gold", 1, 1);
   
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Darrow Au Andromedus", "Break the chains!", "Gold", 1, 1);
+  VALUES ("Julius Heartstriker", "Can't we talk about this?", "Dragon", 2, 2);
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Sevro Barca", "The measure of a man is what he does when he has power.", "Gold", 1, 1);
+  VALUES ("Bethesda Heartstriker", "Have you seen my beauty line?", "Dragon", 2, 2);
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Pax Au Telamanus", "PAX AU TELEMANUS!", "Titan", 1, 1);
+  VALUES ("Amelia Heartstriker", "I'm a god, this is awesome!", "Dragon/God", 2, 2);
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Cassius Au Bellona", "My honor remains.", "Gold", 1, 1);
+  VALUES ("Marci Novalli", "I'm the next merlin", "Human", 2, 2);
+  
+INSERT INTO characters_books
