@@ -19,6 +19,6 @@ INSERT INTO chracters(name, motto, species, author_id, series_id)
 INSERT INTO chracters(name, motto, species, author_id, series_id)
   VALUES ("Sevro Barca", "The measure of a man is what he does when he has power.", "Gold", 1, 1);
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Darrow Au Andromedus", "Break the chains", "Gold", 1, 1);
+  VALUES ("Pax Au Telamanus", "PAX AU TELEMANUS!", "Titan", 1, 1);
 INSERT INTO chracters(name, motto, species, author_id, series_id)
   VALUES ("Darrow Au Andromedus", "Break the chains", "Gold", 1, 1);
