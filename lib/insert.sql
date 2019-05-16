@@ -8,3 +8,8 @@ INSERT INTO authors(name) VALUES("Pierce Brown");
 INSERT INTO authors(name) VALUES("Rachel Aaron");
 
 INSERT INTO books(title, year, series_id) VALUES("Red Rising", 2014, 1)
+INSERT INTO books(title, year, series_id) VALUES("Golden Sun", 2015, 1)
+INSERT INTO books(title, year, series_id) VALUES("Morning Star", 2016, 1)
+INSERT INTO books(title, year, series_id) VALUES("Red Rising", 2014, 1)
+INSERT INTO books(title, year, series_id) VALUES("Red Rising", 2014, 1)
+INSERT INTO books(title, year, series_id) VALUES("Red Rising", 2014, 1)
