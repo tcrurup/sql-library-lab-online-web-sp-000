@@ -15,4 +15,4 @@ INSERT INTO books(title, year, series_id) VALUES("One Good Dragon Deserves Anoth
 INSERT INTO books(title, year, series_id) VALUES("No Good Dragon Goes Unpunished", 2016, 2);
 
 INSERT INTO chracters(name, motto, species, author_id, series_id)
-  VALUES ("Darrow")
+  VALUES ("Darrow Au Andromedus", "Break the chains", "Gold", 1, 1);
