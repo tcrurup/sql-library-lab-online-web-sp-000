@@ -6,3 +6,5 @@ INSERT INTO subgenres(name) VALUES("SciFi");
 
 INSERT INTO authors(name) VALUES("Pierce Brown");
 INSERT INTO authors(name) VALUES("Rachel Aaron");
+
+INSERT INTO books()
