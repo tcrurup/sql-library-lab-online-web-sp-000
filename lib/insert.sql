@@ -32,4 +32,4 @@ INSERT INTO characters(name, motto, species, author_id, series_id)
 INSERT INTO characters(name, motto, species, author_id, series_id)
   VALUES ("Marci Novalli", "I'm the next merlin", "Human", 2, 2);
   
-INSERT INTO character_books
+INSERT INTO character_books(character_id, book_id) VALUES(1, 1);
