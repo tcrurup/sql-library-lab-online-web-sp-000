@@ -5,4 +5,4 @@ INSERT INTO subgenres(name) VALUES("Fantasy")
 INSERT INTO subgenres(name) VALUES("SciFi")
 
 INSERT INTO authors(name) VALUES("Pierce Brown")
-INSERT INTO authors(name) VALUES("Pierce Brown")
+INSERT INTO authors(name) VALUES("Rachel Aaron")
