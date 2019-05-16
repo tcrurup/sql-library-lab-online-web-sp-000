@@ -1,3 +1,6 @@
-CREATE TABLE series{
+CREATE TABLE series(
   
-}
+
+
+)
+  
